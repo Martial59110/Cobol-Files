@@ -11,13 +11,13 @@ Statut :          Actif
 Libellé :       AGTNA_AH
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       AGTNA_BASE
+Libellé :       AGTNA_BAS
 Statut :          Actif
 --------------------------------------------------
 Libellé :       AGTNI_AH
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       AGTNR_BASE
+Libellé :       AGTNR_BAS
 Statut :          Actif
 --------------------------------------------------
 Libellé :       AH_BASE
@@ -38,52 +38,52 @@ Statut :          Resilie
 Libellé :       ASTNA_AH
 Statut :          Actif
 --------------------------------------------------
-Libellé :       ASTNA_BASE
+Libellé :       ASTNA_BAS
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ACEDAT
+Libellé :       BAS_ACEDA
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ACENTRAL
+Libellé :       BAS_ACENT
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ACLARIS
+Libellé :       BAS_ACLAR
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_AKERPROI
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_AKERPROM
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_AKMMOTOR
+Libellé :       BAS_AKMMO
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_ALABBE
+Libellé :       BAS_ALABB
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_ALABEL
+Libellé :       BAS_ALABE
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALAMIRAU
+Libellé :       BAS_ALAMI
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALAUNAY
+Libellé :       BAS_ALAUN
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALECLEAO
+Libellé :       BAS_ALECL
 Statut :          Actif
 --------------------------------------------------
 Libellé :       ANI_PRV
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ALOIRAL
+Libellé :       BAS_ALOIR
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_AMAGYARC
+Libellé :       BAS_AMAGY
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_AMAGYARC2
+Libellé :       BAS_AMAGY
 Statut :          Actif
 --------------------------------------------------
 Libellé :       BAS_AMARY
@@ -104,10 +104,10 @@ Statut :          Resilie
 Libellé :       ANI_PRV
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ALAMIRAU
+Libellé :       BAS_ALAMI
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_AKERPROI
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
 Libellé :       AGA_BASE
@@ -119,13 +119,13 @@ Statut :          Actif
 Libellé :       AGTNA_AH
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       AGTNA_BASE
+Libellé :       AGTNA_BAS
 Statut :          Actif
 --------------------------------------------------
 Libellé :       AGTNI_AH
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       AGTNR_BASE
+Libellé :       AGTNR_BAS
 Statut :          Actif
 --------------------------------------------------
 Libellé :       AH_BASE
@@ -146,52 +146,52 @@ Statut :          Resilie
 Libellé :       ASTNA_AH
 Statut :          Actif
 --------------------------------------------------
-Libellé :       ASTNA_BASE
+Libellé :       ASTNA_BAS
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ACEDAT
+Libellé :       BAS_ACEDA
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ACENTRAL
+Libellé :       BAS_ACENT
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ACLARIS
+Libellé :       BAS_ACLAR
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_AKERPROI
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_AKERPROM
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_AKMMOTOR
+Libellé :       BAS_AKMMO
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_ALABBE
+Libellé :       BAS_ALABB
 Statut :          Resilie
 --------------------------------------------------
-Libellé :       BAS_ALABEL
+Libellé :       BAS_ALABE
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALAMIRAU
+Libellé :       BAS_ALAMI
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALAUNAY
+Libellé :       BAS_ALAUN
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_ALECLEAO
+Libellé :       BAS_ALECL
 Statut :          Actif
 --------------------------------------------------
 Libellé :       ANI_PRV
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ALOIRAL
+Libellé :       BAS_ALOIR
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_AMAGYARC
+Libellé :       BAS_AMAGY
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_AMAGYARC2
+Libellé :       BAS_AMAGY
 Statut :          Actif
 --------------------------------------------------
 Libellé :       BAS_AMARY
@@ -212,10 +212,10 @@ Statut :          Resilie
 Libellé :       ANI_PRV
 Statut :          Suspendu
 --------------------------------------------------
-Libellé :       BAS_ALAMIRAU
+Libellé :       BAS_ALAMI
 Statut :          Actif
 --------------------------------------------------
-Libellé :       BAS_AKERPROI
+Libellé :       BAS_AKERP
 Statut :          Resilie
 --------------------------------------------------
 Nombre d'enregistrements :
