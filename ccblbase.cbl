@@ -28,8 +28,6 @@
        FD ASSU-RAPPORT.
        01 F-DATA-RAPPORT PIC X(122).
  
-       
-        
        WORKING-STORAGE SECTION.
        01  ASSU-STATUS PIC X(2).
        01  ASSU2-STATUS PIC X(2).
@@ -45,7 +43,8 @@
             05 STATUT PIC X(11).
             05 NUMBER1 PIC X(8).
             05 NUMBER2 PIC X(11).
-            05 NUMBER3 PIC X(13).
+            05 NUMBER3 PIC 9(8).
+            05 EURO PIC X(3).
         01 WS-TIRET PIC X(50).
         01 WS-SPACE PIC X(50).
         01 WS-COUNT PIC 9(2).
@@ -62,12 +61,21 @@
        PROCEDURE DIVISION.
            MOVE ALL "-" TO WS-TIRET.
            MOVE ALL " " TO WS-SPACE.
+
+      *    Ouverture du premier fichier
+
            OPEN input ASSU
                   OUTPUT ASSU-RAPPORT.
+
+      *    Entête et mise en forme
+
            WRITE F-DATA-RAPPORT FROM WS-SPACE.
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY.
            WRITE F-DATA-RAPPORT FROM WS-SPACE.
            WRITE F-DATA-RAPPORT FROM WS-TIRET.
+
+      *    Première boucle (fichier1)
+
            PERFORM LIRE-FICHIER1 VARYING WS-IDX FROM 1 BY 1 UNTIL 
            WS-IDX > 36.
 
@@ -77,9 +85,14 @@
            OPEN INPUT ASSU2.
            OPEN extend ASSU-RAPPORT.
 
+      *     Deuxième boucle (fichier2)
+
            SET WS-IDX TO 0.
            PERFORM LIRE-FICHIER2 VARYING WS-IDX FROM 1 BY 1 UNTIL 
            WS-IDX > 36.
+
+      *    Fin des boucles et mise en forme
+      
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY1.
            WRITE F-DATA-RAPPORT FROM WS-COUNT.
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY2. 
@@ -92,13 +105,22 @@
            WRITE F-DATA-RAPPORT FROM WS-INSPECT-COUNT-S.
            CLOSE ASSU2.
            CLOSE ASSU-RAPPORT.
-
            STOP RUN.
            
         LIRE-FICHIER1. 
+
+      *    Lire le fichier1 et remplacement des * par des espaces
+
            READ ASSU INTO F-DATA
            INSPECT F-DATA REPLACING ALL "*" BY " "
            ADD 1 TO WS-COUNT.
+
+      *    Déplacement des données du fichier dans mon tableau.
+      *    Recherche des actifs etc... avec Inspect puis ajout au 
+      *     compteur.
+      *    Ecriture des Libellés et statuts uniquement dans le fichier 
+      *    de sortie.
+
            MOVE F-DATA TO ARRAY(WS-IDX).
             MOVE "Actif" TO WS-INSPECT.
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-A
@@ -114,10 +136,15 @@
            WRITE F-DATA-RAPPORT FROM WS-TIRET.
 
          LIRE-FICHIER2.
+
+      *    Même chose que fichier1.
+
            READ ASSU2 INTO F-DATA2.
            INSPECT F-DATA2 REPLACING ALL "*" BY " ".
            ADD 1 TO WS-COUNT.
            MOVE F-DATA2 TO ARRAY(WS-IDX).
+           INSPECT ARRAY(WS-IDX) TALLYING WS-INSPECT-COUNT-S
+           FOR ALL WS-INSPECT.
            MOVE "Actif" TO WS-INSPECT.
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-A
            FOR ALL WS-INSPECT.
