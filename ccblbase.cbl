@@ -106,6 +106,7 @@
            Move "Nombre de suspendus:" TO WS-DISPLAY2.
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY2. 
            WRITE F-DATA-RAPPORT FROM WS-INSPECT-COUNT-S.
+           
            CLOSE ASSU2.
            CLOSE ASSU-RAPPORT.
            STOP RUN.
@@ -125,24 +126,28 @@
       *    de sortie.
 
            MOVE F-DATA TO ARRAY(WS-IDX).
-            MOVE "Actif" TO WS-INSPECT.
+           MOVE "Actif" TO WS-INSPECT.
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-A
            FOR ALL WS-INSPECT.
            MOVE "Resilie" TO WS-INSPECT.
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-R
            FOR ALL WS-INSPECT.     
-             MOVE "Suspendu" TO WS-INSPECT.
+           MOVE "Suspendu" TO WS-INSPECT.
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-S
            FOR ALL WS-INSPECT.   
-            MOVE "Libellé :" TO WS-DISPLAY-LI.
-             STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
-              ID-NAME(WS-IDX) DELIMITED BY SIZE
-             INTO WS-DISPLAY-LIFULL.
+           MOVE "Libellé :" TO WS-DISPLAY-LI.
+
+           STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
+           ID-NAME(WS-IDX)      DELIMITED BY SIZE
+                                INTO WS-DISPLAY-LIFULL.
+
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY-LIFULL.
            MOVE "Statut :" TO WS-DISPLAY-LI.
+
            STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
-              STATUT(WS-IDX) DELIMITED BY SIZE
-             INTO WS-DISPLAY-LIFULL.
+           STATUT(WS-IDX)       DELIMITED BY SIZE
+                                INTO WS-DISPLAY-LIFULL.
+
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY-LIFULL.
            WRITE F-DATA-RAPPORT FROM WS-TIRET.
 
@@ -153,6 +158,7 @@
            READ ASSU2 INTO F-DATA2.
            INSPECT F-DATA2 REPLACING ALL "*" BY " ".
            ADD 1 TO WS-COUNT.
+
            MOVE F-DATA2 TO ARRAY(WS-IDX).
            INSPECT ARRAY(WS-IDX) TALLYING WS-INSPECT-COUNT-S
            FOR ALL WS-INSPECT.
@@ -166,14 +172,18 @@
            INSPECT STATUT(WS-IDX) TALLYING WS-INSPECT-COUNT-S
            FOR ALL WS-INSPECT.
            MOVE "Libellé :" TO WS-DISPLAY-LI.
-             STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
-              ID-NAME(WS-IDX) DELIMITED BY SIZE
-             INTO WS-DISPLAY-LIFULL.
+
+           STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
+           ID-NAME(WS-IDX)      DELIMITED BY SIZE
+                                INTO WS-DISPLAY-LIFULL.
+
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY-LIFULL.
            MOVE "Statut :" TO WS-DISPLAY-LI.
+
            STRING WS-DISPLAY-LI DELIMITED BY SIZE, SPACE,
-              STATUT(WS-IDX) DELIMITED BY SIZE
-             INTO WS-DISPLAY-LIFULL.
+           STATUT(WS-IDX)       DELIMITED BY SIZE
+                                INTO WS-DISPLAY-LIFULL.
+
            WRITE F-DATA-RAPPORT FROM WS-DISPLAY-LIFULL.
            WRITE F-DATA-RAPPORT FROM WS-TIRET.
 
