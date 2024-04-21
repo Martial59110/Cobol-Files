@@ -1,222 +1,1806 @@
 
-Liste des libellés et des statuts :
+Liste des clients :
 
 --------------------------------------------------
-Libellé :       AGA_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGR_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGTNA_AH
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       AGTNA_BAS
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGTNI_AH
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       AGTNR_BAS
-Statut :          Actif
---------------------------------------------------
-Libellé :       AH_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_FM
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ASA_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       ASR_BASE
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ASTNA_AH
-Statut :          Actif
---------------------------------------------------
-Libellé :       ASTNA_BAS
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ACEDA
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ACENT
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ACLAR
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_AKMMO
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_ALABB
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_ALABE
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALAMI
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALAUN
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALECL
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ALOIR
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMAGY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMAGY
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ALAMI
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
---------------------------------------------------
-Libellé :       AGA_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGR_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGTNA_AH
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       AGTNA_BAS
-Statut :          Actif
---------------------------------------------------
-Libellé :       AGTNI_AH
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       AGTNR_BAS
-Statut :          Actif
---------------------------------------------------
-Libellé :       AH_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_FM
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ASA_BASE
-Statut :          Actif
---------------------------------------------------
-Libellé :       ASR_BASE
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ASTNA_AH
-Statut :          Actif
---------------------------------------------------
-Libellé :       ASTNA_BAS
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ACEDA
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ACENT
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ACLAR
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_AKMMO
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_ALABB
-Statut :          Resilie
---------------------------------------------------
-Libellé :       BAS_ALABE
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALAMI
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALAUN
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_ALECL
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ALOIR
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMAGY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMAGY
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Actif
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_AMARY
-Statut :          Resilie
---------------------------------------------------
-Libellé :       ANI_PRV
-Statut :          Suspendu
---------------------------------------------------
-Libellé :       BAS_ALAMI
-Statut :          Actif
---------------------------------------------------
-Libellé :       BAS_AKERP
-Statut :          Resilie
+
+ID:
+01000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Regimes Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 5275,90
+
+Libellé :
+ AGA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59008750
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Regimes Retraites
+
+SIREN 1 :
+20060901
+
+SIREN 2 :
+ 30000901
+
+Argent :
+13393,60
+
+Libellé :
+ AGR_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+03009800
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+AGTNA
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8135,60
+
+Libellé :
+ AGTNA_AH
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+04009800
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Regimes TNS Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 9868,30
+
+Libellé :
+ AGTNA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59009400
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+AGTNI
+
+SIREN 1 :
+20061101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 1955,30
+
+Libellé :
+ AGTNI_AH
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59010200
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Regimes TNS retraites
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30001201
+
+Argent :
+ 2402,80
+
+Libellé :
+ AGTNR_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+07000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+TNS Actif IJ
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8539,40
+
+Libellé :
+ AH_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59033076
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ANI FM
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 6599,90
+
+Libellé :
+ ANI_FM
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59033176
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ANI PRV
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13583,20
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+10014000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ASI Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  255,70
+
+Libellé :
+ ASA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59014400
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ASI Retraites
+
+SIREN 1 :
+20061201
+
+SIREN 2 :
+ 30001101
+
+Argent :
+ 7875,50
+
+Libellé :
+ ASR_BASE
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59014800
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ASTNA AH
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000301
+
+Argent :
+ 7738,50
+
+Libellé :
+ ASTNA_AH
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59014800
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ASI TNS Actifs
+
+SIREN 1 :
+20060701
+
+SIREN 2 :
+ 30000101
+
+Argent :
+14851,40
+
+Libellé :
+ ASTNA_BASE
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+14040437
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20150401
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 1815,00
+
+Libellé :
+ BAS_ACEDAT
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59044469
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Gpe CENTRAL AUTO ind
+
+SIREN 1 :
+20180101
+
+SIREN 2 :
+ 30000801
+
+Argent :
+  914,90
+
+Libellé :
+ BAS_ACENTRAL
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+16000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Gpe CLARIS AUTOMOBILES
+
+SIREN 1 :
+20190101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  217,90
+
+Libellé :
+ BAS_ACLARIS
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+17046790
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe KER PRO
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 7065,90
+
+Libellé :
+ BAS_AKERPROI
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59046800
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe KER PRO
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 5666,20
+
+Libellé :
+ BAS_AKERPROM
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+19049142
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+AKM Motors
+
+SIREN 1 :
+20211101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 3763,10
+
+Libellé :
+ BAS_AKMMOTOR
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59049799
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+GRUAU LABBE
+
+SIREN 1 :
+20221101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13845,50
+
+Libellé :
+ BAS_ALABBE
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+21044242
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+LABEL ind.
+
+SIREN 1 :
+20170801
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8318,60
+
+Libellé :
+ BAS_ALABEL
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59041605
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe LAMIRAULT ind.
+
+SIREN 1 :
+20160101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 3286,60
+
+Libellé :
+ BAS_ALAMIRAU
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+23000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe LAUNAY ind.
+
+SIREN 1 :
+20180601
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11504,30
+
+Libellé :
+ BAS_ALAUNAY
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59046699
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+LECLERC AUTOMOBILES
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8778,50
+
+Libellé :
+ BAS_ALECLEAO
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59046745
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+L.R PARTICIPATIONS
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11932,00
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59049026
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Loire Alliance Motors
+
+SIREN 1 :
+20220401
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13722,40
+
+Libellé :
+ BAS_ALOIRAL
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+27044672
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+MAGYAR ind.
+
+SIREN 1 :
+20180101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  576,10
+
+Libellé :
+ BAS_AMAGYARC
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59050005
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+MAGYAR ind.
+
+SIREN 1 :
+20221101
+
+SIREN 2 :
+ 30000301
+
+Argent :
+14696,00
+
+Libellé :
+ BAS_AMAGYARC2
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+29045730
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Mary Automobiles ind.
+
+SIREN 1 :
+20211001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11482,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+89000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000401
+
+Argent :
+66006,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+75000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe LAUNAY ind.
+
+SIREN 1 :
+20091001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+16666,04
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+32000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Regimes TNS retraites
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000501
+
+Argent :
+ 7823,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+77000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Groupe LAMIRAULT ind.
+
+SIREN 1 :
+20651001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  666,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+34000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+Mary Automobiles ind.
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+66666,00
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+35000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20271001
+
+SIREN 2 :
+ 30000601
+
+Argent :
+64266,00
+
+Libellé :
+ BAS_ALAMIRAU
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+73000000
+
+IRP:
+ IRP AUTO Sante
+
+Société :
+ANI PRV
+
+SIREN 1 :
+20261001
+
+SIREN 2 :
+ 30000601
+
+Argent :
+ 6096,05
+
+Libellé :
+ BAS_AKERPROI
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+01010000
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Regimes Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 5675,90
+
+Libellé :
+ AGA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+02598750
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Regimes Retraites
+
+SIREN 1 :
+20060901
+
+SIREN 2 :
+ 30000901
+
+Argent :
+13593,60
+
+Libellé :
+ AGR_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+03009800
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+AGTNA
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8435,90
+
+Libellé :
+ AGTNA_AH
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+04009800
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Regimes TNS Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 9368,30
+
+Libellé :
+ AGTNA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59009400
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+AGTNI
+
+SIREN 1 :
+20061101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 1255,00
+
+Libellé :
+ AGTNI_AH
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59010200
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Regimes TNS retraites
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30001201
+
+Argent :
+ 2102,80
+
+Libellé :
+ AGTNR_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+07032200
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+TNS Actif IJ
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8039,40
+
+Libellé :
+ AH_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59033076
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ANI FM
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 6999,90
+
+Libellé :
+ ANI_FM
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59033176
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ANI PRV
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13883,20
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+10014020
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ASI Actifs
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  655,70
+
+Libellé :
+ ASA_BASE
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59014400
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ASI Retraites
+
+SIREN 1 :
+20061201
+
+SIREN 2 :
+ 30001101
+
+Argent :
+ 7575,50
+
+Libellé :
+ ASR_BASE
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59014811
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ASTNA AH
+
+SIREN 1 :
+20060101
+
+SIREN 2 :
+ 30000301
+
+Argent :
+ 7438,50
+
+Libellé :
+ ASTNA_AH
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59014820
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ASI TNS Actifs
+
+SIREN 1 :
+20060701
+
+SIREN 2 :
+ 30000101
+
+Argent :
+14351,40
+
+Libellé :
+ ASTNA_BASE
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+14040437
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20150401
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 1215,00
+
+Libellé :
+ BAS_ACEDAT
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59044469
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Gpe CENTRAL MOTO ind
+
+SIREN 1 :
+20180101
+
+SIREN 2 :
+ 30000801
+
+Argent :
+  114,90
+
+Libellé :
+ BAS_ACENTRAL
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+16003330
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Gpe CLARIS AUTOMOBILES
+
+SIREN 1 :
+20190101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  917,90
+
+Libellé :
+ BAS_ACLARIS
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+17046790
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe KER PRO
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 7865,90
+
+Libellé :
+ BAS_AKERPROI
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59046800
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe KER PRO
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 5766,20
+
+Libellé :
+ BAS_AKERPROM
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+19049142
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+AKM Motors
+
+SIREN 1 :
+20211101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 3663,10
+
+Libellé :
+ BAS_AKMMOTOR
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+59049799
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+GRUAU LABBE
+
+SIREN 1 :
+20221101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13545,50
+
+Libellé :
+ BAS_ALABBE
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+21044242
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+LABEL ind.
+
+SIREN 1 :
+20170801
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8418,60
+
+Libellé :
+ BAS_ALABEL
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59041605
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe LAMIRAULT ind.
+
+SIREN 1 :
+20160101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 3386,60
+
+Libellé :
+ BAS_ALAMIRAU
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+23001230
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe LAUNAY ind.
+
+SIREN 1 :
+20180601
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11204,30
+
+Libellé :
+ BAS_ALAUNAY
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59046699
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+LECLERC AUTOMOBILES
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+ 8178,50
+
+Libellé :
+ BAS_ALECLEAO
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+59046745
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+L.R PARTICIPATIONS
+
+SIREN 1 :
+20191001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11932,10
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59049026
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Loire Alliance Motors
+
+SIREN 1 :
+20220401
+
+SIREN 2 :
+ 30000101
+
+Argent :
+13822,40
+
+Libellé :
+ BAS_ALOIRAL
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+27044672
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+MAGYAR ind.
+
+SIREN 1 :
+20180101
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  776,10
+
+Libellé :
+ BAS_AMAGYARC
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+59050005
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+MAGYAR ind.
+
+SIREN 1 :
+20221101
+
+SIREN 2 :
+ 30000301
+
+Argent :
+14696,00
+
+Libellé :
+ BAS_AMAGYARC2
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+29045730
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Mary Automobiles ind.
+
+SIREN 1 :
+20211001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+11582,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+89001230
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000401
+
+Argent :
+66406,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+75087600
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe LAUNAY ind.
+
+SIREN 1 :
+20091001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+16366,00
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+32000000
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Regimes TNS retraites
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000501
+
+Argent :
+ 7223,00
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+77000000
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Groupe LAMIRAULT ind.
+
+SIREN 1 :
+20651001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+  166,05
+
+Libellé :
+ BAS_AMARY
+
+Statut :
+  Resilie
+--------------------------------------------------
+
+ID:
+34001230
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+Mary Automobiles ind.
+
+SIREN 1 :
+20161001
+
+SIREN 2 :
+ 30000101
+
+Argent :
+66966,00
+
+Libellé :
+ ANI_PRV
+
+Statut :
+  Suspendu
+--------------------------------------------------
+
+ID:
+35022000
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+CEDAT
+
+SIREN 1 :
+20271001
+
+SIREN 2 :
+ 30000601
+
+Argent :
+64866,00
+
+Libellé :
+ BAS_ALAMIRAU
+
+Statut :
+  Actif
+--------------------------------------------------
+
+ID:
+73032120
+
+IRP:
+ IRP MOTO Sante
+
+Société :
+ANI PRV
+
+SIREN 1 :
+20261001
+
+SIREN 2 :
+ 30000601
+
+Argent :
+ 6796,05
+
+Libellé :
+ BAS_AKERPROI
+
+Statut :
+  Resilie
 --------------------------------------------------
 Nombre d'enregistrements :
 72
@@ -225,4 +1809,6 @@ Nombre d'Actifs :
 Nombre de résiliés :
 16
 Nombre de suspendus:
-30
+20
+ARGENT TOTAL:
+914746,49
